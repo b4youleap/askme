@@ -1,10 +1,13 @@
 # Askme
 
+This project follows the tutorial in the angular cookbook (not sure where this went, it was still on angular.io around v1.1.3) 
+but instead of using the heroes example I used technology standards - thinking this might be a quick way to track technology products
+through the technology lifecycle. 
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
 **Note**
-Updated to @angular/cli version 1.1.3
-
-This follows the tutorial in the angular cookbook and instead of heroes I used technology standards. 
+- Updated to @angular/cli version 1.1.3
+- Updated to @angular/cli version 1.7.3 on March 31, 2018
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
